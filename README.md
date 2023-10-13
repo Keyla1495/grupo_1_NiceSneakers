@@ -7,8 +7,8 @@ Nice Sneakers busca convertirse en el referente del mercado de zapatillas online
 
 
 #### Equipo de Trabajo
-Alfredo Cordoba
-Alfredo Kentish
-Andres Valdes 
-Keyla Kelly
-Yair Sanchez 
+# Alfredo Cordoba
+# Alfredo Kentish
+# Andres Valdes 
+# Keyla Kelly
+# Yair Sanchez 
