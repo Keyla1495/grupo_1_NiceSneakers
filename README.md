@@ -7,8 +7,22 @@ Nice Sneakers busca convertirse en el referente del mercado de zapatillas online
 
 
 # Equipo de Trabajo
-Alfredo Cordoba
-Alfredo Kentish
-Andres Valdes 
-Keyla Kelly
-Yair Sanchez 
+
+Alfredo Córdoba:
+
+Alfredo Kentish:
+
+Andres Valdés: 
+
+Keyla Kelly:
+
+Sachanys Baker:
+
+Yair Sánchez:  
+
+# Sitios de Referencias
+Sporline: https://www.sportline.com.pa/
+Klekt: https://www.klekt.com/us
+Foot Locker: https://www.footlocker.com/
+Kicks: https://www.kicks.com.pa/
+Skechers: https://www.pa.skechers.com/
