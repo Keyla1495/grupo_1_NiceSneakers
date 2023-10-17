@@ -29,4 +29,4 @@ Yair Sánchez:
 
 [Kicks](https://www.kicks.com.pa/)
 
-[Skechers](https://www.pa.skechers.com/)
+[Nike](https://www.nike.com/xl/)
