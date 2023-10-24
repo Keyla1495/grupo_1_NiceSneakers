@@ -1,34 +1,34 @@
-# NICE SNEAKERS
+# _NICE SNEAKERS_
 Es un sitio online que se dedica a la venta de zapatillas de diferentes marcas, modelos y precios, dirigida a un público joven y urbano que busca calzado cómodo, de calidad y con estilo. El sitio ofrece una amplia variedad de opciones para satisfacer las preferencias y necesidades de los clientes, así como un servicio de envío rápido y seguro. 
 
 
-# Objetivo de Nice Sneakers
+# _Objetivo de Nice Sneakers_
 Nice Sneakers busca convertirse en el referente del mercado de zapatillas online, ofreciendo los mejores productos y precios, y una experiencia de compra fácil y agradable.
 
 
-# Equipo de Trabajo
+# _Equipo de Trabajo_
 
-Alfredo Córdoba:
+**Alfredo Córdoba**
 
-Alfredo Kentish:
+**Alfredo Kentish**
 
-Andres Valdés: 
+**Andres Valdés** 
 
-**Keyla Kelly**
+**Keyla Kelly** 
 
-Licenciada en Gerencia de Comercio Electrónico, soy una persona organizada, práctica, responsable y muy curiosa en base a lo relacionado con las nuevas tendencias tecnológicas. Me gusta todo lo relacionado con la distribucción logística de la compra y venta de productos o servicios Online. 
+Licenciada en Gerencia de Comercio Electrónico, soy una persona organizada, práctica, responsable y muy curiosa en base a lo relacionado con las nuevas tendencias tecnológicas. Me gusta todo lo relacionado con la distribucción logística de la compra y venta de productos o servicios online. 
 
-Sachanys Baker:
+**Sachanys Baker**
 
-Yair Sánchez:  
+**Yair Sánchez** 
 
-# Sitios de Referencias
-[Sportline](https://www.sportline.com.pa/)
+# _Sitios de Referencias_
+* _[Sportline](https://www.sportline.com.pa/)_
 
-[Klekt](https://www.klekt.com/us)
+* _[Klekt](https://www.klekt.com/us)_
 
-[Foot Locker](https://www.footlocker.com/)
+* _[Foot Locker](https://www.footlocker.com/)_
 
-[Kicks](https://www.kicks.com.pa/)
+* _[Kicks](https://www.kicks.com.pa/)_
 
-[Nike](https://www.nike.com/xl/)
+* _[Nike](https://www.nike.com/xl/)_
