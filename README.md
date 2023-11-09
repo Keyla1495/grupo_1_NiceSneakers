@@ -9,6 +9,7 @@ Nice Sneakers busca convertirse en el referente del mercado de zapatillas online
 # _Equipo de Trabajo_
 
 **Alfredo Córdoba**
+
 Piloto de Avión Comercial y Administrador de Empresas Marítimas en proceso, interesado por el área de programación y fanático de las zapatillas tan cerca de ser un SneakerHead.
 
 **Alfredo Kentish**
